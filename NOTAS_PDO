@@ -1,0 +1,11 @@
+
+                CONSULTAS A LA BASE DE DATOS
+
+Dos tipos:
+LECTURA 
+ESCRITURA
+
+...Pero TRES métodos:
+query() => LECTURA
+exec() => ESCRITURA
+prepare() => LECTURA  Y ESCRITURA
