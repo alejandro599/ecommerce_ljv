@@ -12,3 +12,4 @@ if(isset($_GET['p']))
 else
     require_once 'pages/home.php';
 require_once 'template/pie.php';
+
